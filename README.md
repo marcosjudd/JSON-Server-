@@ -1,5 +1,5 @@
 # JSON-Server
 
-<h1>Olá!</h1> :smiley:
+<h2>Olá! :smiley: </h2> 
 
 Bem vindo ao meu repositório que reúne dados sobre um salão de beleza. :blush: :haircut:

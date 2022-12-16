@@ -1,0 +1,9 @@
+{
+  "notas": [
+    {
+      "id": 1,
+      "título": "Estudar JS",
+      "status": true
+    }
+  ]
+}

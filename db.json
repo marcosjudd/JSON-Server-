@@ -1,9 +1,108 @@
 {
-    "notas":[
+    "Servico":[
         {
             "id": 1,
-            "título": "Estudar JS",
-            "status": true
+            "tipo": "Penteado",
+            "Modalidade": "Noiva",
+            "Valor": "3000 reais",
+            "Tempo_de_execucao": "60 minutos",
+            "status": true,
+            "categoria": 1
+            
+        },
+        {
+            "id": 2,
+            "tipo": "Penteado",
+            "Modalidade": "Madrinha",
+            "Valor": "2500 reais",
+            "Tempo_de_execucao": "60 minutos",
+            "status": true,
+            "categoria": 1
+        },
+        {
+            "id": 3,
+            "tipo": "Corte",
+            "Modalidade": "Long Bob",
+            "Valor": "2500 reais",
+            "Tempo_de_execucao": "60 minutos",
+            "status": true,
+            "categoria": 1
+        },
+        {
+            "id": 4,
+            "tipo": "Corte",
+            "Modalidade": "Long Bob",
+            "Valor": "2500 reais",
+            "Tempo_de_execucao": "60 minutos",
+            "status": true,
+            "categoria": 1
         }
+    ],
+
+
+    "Clientes":[
+        {
+            "id": 1,
+            "Nome": "Viviane",
+            "Idade": "28 anos",
+            "Cliente_caloteiro": false,
+            "cliente_chato": false
+        },{
+            "id": 2,
+            "Nome": "Marcos",
+            "Genero": "Masculino",
+            "Idade": "28 anos",
+            "Cliente_caloteiro": false,
+            "cliente_chato": false
+        },{
+            "id": 3,
+            "Nome": "Bruno",
+            "Genero": "Masculino",
+            "Idade": "28 anos",
+            "Cliente_caloteiro": false,
+            "cliente_chato": false
+        },{
+            "id": 4,
+            "Nome": "Tauane",
+            "Genero": "Feminino",
+            "Idade": "28 anos",
+            "Cliente_caloteiro": false,
+            "cliente_chato": false
+        },{
+            "id": 5,
+            "Nome": "Diego",
+            "Genero": "Masculino",
+            "Idade": "30",
+            "Cliente_caloteiro": false,
+            "cliente_chato": false
+        }
+        ,{
+            "id": 6,
+            "Nome": "Brandon",
+            "Genero": "Fluido",
+            "Idade": "24 anos",
+            "Cliente_caloteiro": true,
+            "cliente_chato": false
+        }
+    ],
+
+
+    "Produtos":[
+    {
+        "id": 1,
+        "tipo": "Shampoo",
+        "título": "Milagre hidratante",
+        "Valor": "25 reais",
+        "Quantidade": "250ml"
+        
+    },{
+        "id": 2,
+        "tipo": "Shampoo",
+        "título": "Alisa cabelo",
+        "Valor": "50 reais",
+        "Quantidade": "250ml"
+    }
+
     ]
+
 }
